@@ -120,7 +120,7 @@ Arduino Uno
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/lipex459/GS---Edge-Computingmonitor.git
+git clone https://github.com/lipex459/GS---Edge-Computing.git
 ```
 2. Abra o arquivo `sketch.ino` na Arduino IDE
 3. Instale as bibliotecas necessárias:
