@@ -111,7 +111,7 @@ Arduino Uno
 
 ### No Simulador Wokwi
 
-1. Acesse o link da simulação: **[inserir link do Wokwi aqui]**
+1. Acesse o link da simulação: **[🔗 Clique aqui para abrir no Wokwi](https://wokwi.com/projects/465752741574777857)**
 2. Clique em ▶️ **Start Simulation**
 3. Use os botões verdes e vermelhos para navegar entre os eventos
 4. Aguarde 10 segundos para ver a leitura de temperatura do DHT22
@@ -120,7 +120,7 @@ Arduino Uno
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nasa-disaster-monitor.git
+git clone https://github.com/lipex459/GS---Edge-Computingmonitor.git
 ```
 2. Abra o arquivo `sketch.ino` na Arduino IDE
 3. Instale as bibliotecas necessárias:
